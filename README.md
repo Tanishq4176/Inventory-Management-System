@@ -145,35 +145,43 @@ The following screenshots demonstrate the main API operations and their response
 
 ### 01. Server & Database Connection
 
-<img src="screenshots/01-server-running.png" width="90%" alt="Server running and database connected"/>
+<img width="1086" height="1012" alt="image" src="https://github.com/user-attachments/assets/1b16008f-d57a-40c9-8b75-bc936059dfbc" />
+
 
 ### 02. Create Product
 
-<img src="screenshots/02-create-product.png" width="90%" alt="Successful product creation"/>
+<img width="1085" height="1013" alt="image" src="https://github.com/user-attachments/assets/35fe2aa3-130c-494d-8238-85e74cdc1e37" />
+
 
 ### 03. Product Validation
 
-<img src="screenshots/03-product-validation.png" width="90%" alt="Product validation response"/>
+<img width="1086" height="938" alt="image" src="https://github.com/user-attachments/assets/b3147437-5289-485e-9305-0392f019972f" />
+
 
 ### 04. Filtering, Sorting & Pagination
 
-<img src="screenshots/04-filter-sort-pagination.png" width="90%" alt="Product filtering sorting and pagination"/>
+<img width="1076" height="1005" alt="image" src="https://github.com/user-attachments/assets/01ec12a7-d5a7-462b-85a4-d82e35c42c98" />
+
 
 ### 05. Retrieve & Update Product
 
-<img src="screenshots/05-get-and-update-product.png" width="90%" alt="Get and update product responses"/>
+<img width="1095" height="935" alt="image" src="https://github.com/user-attachments/assets/e35f2a60-971c-4fbd-8a28-18676d21a5f3" />
+
 
 ### 06. Delete Product
 
-<img src="screenshots/06-delete-product.png" width="90%" alt="Product deletion response"/>
+<img width="1088" height="800" alt="image" src="https://github.com/user-attachments/assets/71e1744f-d22a-490b-a856-c8c263e9f843" />
+
 
 ### 07. Stock Adjustment & Low-Stock Report
 
-<img src="screenshots/07-stock-and-low-stock.png" width="90%" alt="Stock adjustment and low stock report"/>
+<img width="1098" height="997" alt="image" src="https://github.com/user-attachments/assets/74cdd72b-bc0a-44c4-bb14-df56b05a9f8f" />
+<img width="1082" height="1002" alt="image" src="https://github.com/user-attachments/assets/8192d3a2-05e6-4113-89db-cad1e9b53551" />
+<img width="1098" height="725" alt="image" src="https://github.com/user-attachments/assets/fe3c77af-bed7-45f4-bbf7-8f983d9e104a" />
+
 
 ### 08. Category-wise Inventory Summary
-
-<img src="screenshots/08-category-summary.png" width="90%" alt="Category-wise inventory aggregation response"/>
+<img width="1082" height="775" alt="image" src="https://github.com/user-attachments/assets/98455991-aba1-40cb-9205-62d8d034b3aa" />
 
 ## 🚀 Getting Started
 
